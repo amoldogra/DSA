@@ -1,4 +1,4 @@
-package com.company.linearSearch;
+package com.amol.linearSearch;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.company;
+package com.amol;
 import java.util.*;
 
 public class Basic {

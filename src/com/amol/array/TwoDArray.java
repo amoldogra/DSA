@@ -1,6 +1,4 @@
-package com.company.array;
-
-import java.util.Scanner;
+package com.amol.array;
 
 public class TwoDArray {
     public static void main(String[] args) {

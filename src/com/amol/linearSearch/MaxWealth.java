@@ -1,4 +1,4 @@
-package com.company.linearSearch;
+package com.amol.linearSearch;
   // https://leetcode.com/problems/richest-customer-wealth/
 public class MaxWealth {
     public static void main(String[] args) {

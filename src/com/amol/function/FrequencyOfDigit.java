@@ -1,4 +1,4 @@
-package com.company.function;
+package com.amol.function;
 import java.util.*;
 
 public class FrequencyOfDigit {

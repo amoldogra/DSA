@@ -1,7 +1,4 @@
-package com.company.array;
-
-import java.sql.SQLOutput;
-import java.util.Arrays;
+package com.amol.array;
 
 public class MaximumValueofAnArray {
     public static void main(String[] args) {

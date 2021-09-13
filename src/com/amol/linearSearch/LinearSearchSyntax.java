@@ -1,4 +1,4 @@
-package com.company.linearSearch;
+package com.amol.linearSearch;
 
 public class LinearSearchSyntax {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.company.linearSearch;
+package com.amol.linearSearch;
 
 public class MinNumber {
     public static void main(String[] args) {

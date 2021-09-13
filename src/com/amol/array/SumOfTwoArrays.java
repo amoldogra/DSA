@@ -1,4 +1,4 @@
-package com.company.array;
+package com.amol.array;
 
 import java.util.Scanner;
 

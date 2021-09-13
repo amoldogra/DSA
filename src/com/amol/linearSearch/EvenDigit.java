@@ -1,4 +1,4 @@
-package com.company.linearSearch;
+package com.amol.linearSearch;
 
 //   https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 public class EvenDigit {
