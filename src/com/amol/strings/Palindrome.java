@@ -1,7 +1,5 @@
 package com.amol.strings;
 
-import java.util.Locale;
-
 public class Palindrome {
     public static void main(String[] args) {
         String str = "abcdcba";
