@@ -1,4 +1,4 @@
-package com.amol.function;
+package com.amol.recursion;
 
 import java.util.Scanner;
 
