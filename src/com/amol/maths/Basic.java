@@ -1,4 +1,4 @@
-package com.amol;
+package com.amol.maths;
 import java.util.*;
 
 public class Basic {
@@ -6,7 +6,9 @@ public class Basic {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        //   GRADING SYSTEM
+
+                                                         //   GRADING SYSTEM
+
    /*     System.out.print("ENTER MARKS : ");
         int marks = sc.nextInt();
         if (marks > 90) {
@@ -98,7 +100,7 @@ int lcm = (on1 * on2)/gcd;
         System.out.println(lcm);
 
 
-                                                  // PRIME FACTORIZATION
+                                                             // PRIME FACTORIZATION
 
         int n  =  sc.nextInt();
          for(int div = 2 ; div * div<=n ; div++){
@@ -140,7 +142,7 @@ int lcm = (on1 * on2)/gcd;
 
     */
 
-        // BENJAMIN BULB
+                                                  // BENJAMIN BULB
 
         int n = sc.nextInt();
         for(int i=1;i*i <= n ;i++){

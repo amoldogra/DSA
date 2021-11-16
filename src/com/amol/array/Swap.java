@@ -9,9 +9,11 @@ public class Swap {
 
     }
      static void swapArray(int[] abb, int index1, int index2){
-        int temp = abb[index1];
-        abb[index1]=abb[index2];
+       int temp = abb[index1];
+       abb[index1]=abb[index2];
         abb[index2]=temp;
+
+
          System.out.println(Arrays.toString(abb));
 
     }
