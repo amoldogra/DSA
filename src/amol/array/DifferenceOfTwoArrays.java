@@ -1,4 +1,4 @@
-package com.amol.array;
+package amol.array;
 import java.util.*;
 
 public class DifferenceOfTwoArrays {

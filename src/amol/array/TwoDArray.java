@@ -1,4 +1,4 @@
-package com.amol.array;
+package amol.array;
 
 public class TwoDArray {
     public static void main(String[] args) {

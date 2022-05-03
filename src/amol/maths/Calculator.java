@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int ans =0;
+        int ans = 0;
 
          while(true){
 
@@ -19,18 +19,23 @@ public class Calculator {
 
                 if(ch == '+'){
                     ans = num1 + num2;
+                    System.out.println(ans);
                 }
                 if(ch == '-'){
                     ans = num1 - num2;
+                    System.out.println(ans);
                 }
                 if(ch == '*'){
                     ans = num1 * num2;
+                    System.out.println(ans);
                 }
                 if(ch == '/'){
                     ans = num1 / num2;
+                    System.out.println(ans);
                 }
                 if(ch == '%'){
                     ans = num1 % num2;
+                    System.out.println(ans);
                 }
                 else if(ch == 'x' || ch == 'X'){
                    break;

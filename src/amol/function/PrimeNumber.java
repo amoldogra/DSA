@@ -1,4 +1,4 @@
-package com.amol.function;
+package amol.function;
 
 import java.util.Scanner;
 
